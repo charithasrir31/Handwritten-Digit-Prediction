@@ -4,6 +4,9 @@ This project demonstrates model training, evaluation, and performance visualizat
 
 ## Features
 **- Dataset:** MNIST dataset containing 70,000 grayscale images of handwritten digits at 28x28 pixels.
+
 **- Model:** CNN architecture with Conv2D, MaxPooling2D, Flatten, and Dense layers for digit classification.
+
 **- Tools Used:** TensorFlow, Keras, NumPy, Matplotlib, Seaborn, and Scikit-learn.
+
 **- Results:** Achieved a test accuracy of 99% and generated comprehensive performance metrics including a confusion matrix and classification report.
